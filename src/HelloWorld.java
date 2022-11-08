@@ -7,5 +7,7 @@ public class HelloWorld {
         System.out.println("Hello world!" + "How are you doing?");
         System.out.println("HI");
         System.out.println("Abra kadabra");
+        System.out.println("added New changes");
+        System.out.println("added New changes 1");
     }
 }
